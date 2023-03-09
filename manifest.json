@@ -1,10 +1,9 @@
 {
-  "name": "admin-ui-example",
-  "vendor": "vtex",
-  "version": "0.0.1",
+  "name": "admin-control",
+  "vendor": "kudosio",
+  "version": "0.0.0",
   "title": "Admin-ui example app",
   "description": "",
-  "mustUpdateAt": "2022-08-28",
   "scripts": {
     "postreleasy": "vtex publish"
   },
